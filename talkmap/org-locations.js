@@ -1,22 +1,52 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Understanding the Basics of Storytelling in Scholarship Essays<br />Phnom Penh; Cambodia",
+    12.5433216,
+    104.8144914
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Getting Ready for University Life - Discovering Your Passion and Unlocking Your Potential<br />Phnom Penh; Cambodia",
+    12.5433216,
+    104.8144914
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Scholarship Consultant for Fulbright Foriegn Student Program<br />Phnom Penh; Cambodia",
+    12.5433216,
+    104.8144914
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "MS in Innovation Management & Entrepreneurship: How We Will Get You a Meaningful Internship<br />Philadelphia, PA; USA (Online)",
+    38.1549342,
+    -79.0697126
+  ],
+  [
+    "Life as a Scholarship Student in the US<br />Phnom Penh; Cambodia",
+    12.5433216,
+    104.8144914
+  ],
+  [
+    "Scholarship Preparation Tips<br />Phnom Penh; Cambodia",
+    12.5433216,
+    104.8144914
+  ],
+  [
+    "Exchange Program Sharing<br />Phnom Penh; Cambodia",
+    12.5433216,
+    104.8144914
+  ],
+  [
+    "Opportunity Hack<br />Phnom Penh; Cambodia",
+    12.5433216,
+    104.8144914
+  ],
+  [
+    "US Government Scholarship Sharing<br />Phnom Penh; Cambodia",
+    12.5433216,
+    104.8144914
+  ],
+  [
+    "Fireside Chat: From Dreams to Degrees - Your Guide to U.S. College Life<br />Phnom Penh; Cambodia",
+    12.5433216,
+    104.8144914
   ]
 ];

@@ -1,152 +1,322 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Punrong Rany",
+    "email": "punrong.rany@ucalgary.ca",
+    "website": "https://punrong.rany.github.io",
+    "summary": "AI researcher, software engineer, and technology project manager with 6+ years of experience across artificial intelligence, digital banking, telecommunications, and entrepreneurship. <br><br> Currently pursuing an MSc in Electrical and Computer Engineering at the University of Calgary, conducting research on deep learning applications in power systems and energy under the supervision of Dr. Christine Cao and Dr. Samira Ebrahimi Kahou. <br><br> Previously managed digital banking initiatives at Canadia Bank, contributed to software development at Smart Axiata and Phillip Bank, and co-founded an education technology platform that helped 1,000+ students explore scholarship opportunities.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Calgary",
+      "countryCode": "Canada",
+      "region": "Alberta"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
+        "network": "LinkedIn",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://www.linkedin.com/in/punrong-rany/"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "",
+        "url": "https://github.com/punrong"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "University of Calgary, Canada",
+      "position": "Graduate Research Assistant",
+      "website": "",
+      "startDate": "Sep 2026",
+      "endDate": "Present",
+      "summary": "Conducting research on applied machine learning for energy systems, focusing on optimization, planning, and policymaking under the supervision of Dr. Christine Cao and Dr. Samira Ebrahimi Kahou.",
+      "highlights": ["Exploring deep learning applications for power systems and energy.", "Investigating machine learning approaches to complex energy system problems.", "Collaborating with researchers on AI-driven energy research."]
+    },
+    {
+      "company": "Canadia Bank, Cambodia",
+      "position": "Project Manager",
+      "website": "",
+      "startDate": "Aug 2024",
+      "endDate": "Aug 2026",
+      "summary": "Managed large-scale technology initiatives across mobile banking, core banking, AI, and cloud solutions, coordinating project delivery and issue resolution for a digital banking ecosystem serving more than 2 million users.",
+      "highlights": ["Led more than five major technology initiatives across banking and digital services.","Coordinated testing and cross-platform incident resolution to support reliable product releases.","Managed mobile banking activities involving more than 4,000 test cases."]
+    },
+    {
+      "company": "Temple University, USA",
+      "position": "Graduate Researcher",
+      "website": "",
+      "startDate": "Jan 2024",
+      "endDate": "Apr 2024",
+      "summary": "Conducted research using natural language processing to analyze graduate career trajectories and generate insights for university admissions and career counseling strategies.",
+      "highlights": ["Developed an NLP model to analyze career trajectories among approximately 150 graduates annually.","Generated insights covering more than 20 job types and 10 industries.","Explored how employment trends could inform admissions and career counseling."]
+    },
+    {
+      "company": "សិស្សច្បង ~ Sers Chborng (The Mentor), Cambodia",
+      "position": "Co-Founder & CTO",
+      "website": "",
+      "startDate": "Mar 2019",
+      "endDate": "Jan 2024",
+      "summary": "Co-founded an education and scholarship mentorship initiative in Cambodia, leading technology development and business strategy to help students access higher education and scholarship opportunities.",
+      "highlights": ["Supported approximately 1,000 students through mentorship and educational webinars.", "Secured USD 4,000 in investment from Smart Axiata.", "Led the development of the website and mobile application."]
+    },
+    {
+      "company": "Phoenix Language Services Inc, USA",
+      "position": "Business Process Analyst",
+      "website": "",
+      "startDate": "Sep",
+      "endDate": "Dec 2023",
+      "summary": "Supported business process improvement, software testing, and marketing initiatives, contributing to system upgrades and business strategy development.",
+      "highlights": ["Conducted user acceptance testing for the Interpreter Management System 3.0 upgrade.", "Executed more than 20 test cases to support software quality assurance.", "Conducted market research and competitive analysis.", "Produced three promotional business strategy videos."]
+    },
+    {
+      "company": "Phillip Bank, Cambodia",
+      "position": "Full-Stack Web Developer",
+      "website": "",
+      "startDate": "Oct 2021",
+      "endDate": "Jul 2022",
+      "summary": "Developed and maintained web-based solutions for a banking environment, contributing to the bank's website and insurance system while supporting software quality and production stability.",
+      "highlights": ["Built the bank's website for an institution serving more than 1 million customers.", "Developed more than 50 features for the insurance system.", "Resolved critical and high-priority issues within four hours of identification."]
+    },
+    {
+      "company": "Smart Axiata, Cambodia",
+      "position": "Junior Application Developer",
+      "website": "",
+      "startDate": "Aug 2020",
+      "endDate": "Oct 2021",
+      "summary": "Contributed to telecommunications software development by enhancing broadband systems and building APIs for mobile service management applications.",
+      "highlights": ["Delivered more than 30 features for the Fixed Wired Broadband System.", "Developed more than 20 APIs for the SmartNas mobile application.", "Contributed to digital services supporting millions of telecommunications users."]
+    },
+    {
+      "company": "Gwangju Institute of Science and Technology, South Korea",
+      "position": "Machine Learning Researcher",
+      "website": "",
+      "startDate": "Jun",
+      "endDate": "Aug 2019",
+      "summary": "Conducted machine learning research on vehicle detection using Single Shot MultiBox Detector (SSD), exploring custom inputs and presenting research findings during an international research internship.",
+      "highlights": ["Investigated deep learning-based vehicle detection using SSD.", "Explored custom inputs for vehicle detection.", "Presented research findings from the internship project."]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Calgary, Canada",
+      "area": "MSc, Electrical and Computer Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "Expected 2028",
+      "gpa": null,
+      "courses": ["Data Mining & Machine Learning", "Learning Representations in Deep Neural Network"]
+    },
+    {
+      "institution": "Temple University, USA",
+      "area": "MSc, Innovation Management & Entrepreneurship",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "Dec 2023",
+      "gpa": null,
+      "courses": ["Artificial Intelligence", "Scripting for Science & Business", "Information Technology Management", "Management of Technology & Innovation", "Business Model Innovation", "Creativity Unleashed"]
+    },
+    {
+      "institution": "Royal University of Phnom Penh, Cambodia",
+      "area": "BA, International Studies",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "Oct 2021",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Royal University of Phnom Penh, Cambodia",
+      "area": "BSc, Computer Science",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "Oct 2020",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Machine Learning & AI",
+      "level": "",
+      "keywords": ["Deep Learning", "Reinforcement Learning", "Large Language Models (LLMs)", "Explainable AI (XAI)","Computer Vision"]
+    },
+    {
+      "name": "Programming Languages",
+      "keywords": ["Python", "C/C++", "Java", "JavaScript", "SQL"]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "keywords": ["PyTorch", "TensorFlow", "Keras", "Scikit-learn", "Pandas", "NumPy"]
+    },
+    {
+      "name": "Web & Mobile Development",
+      "level": "",
+      "keywords": ["React.js", "Vue.js", "Laravel", "React Native"]
+    },
+    {
+      "name": "Data Analysis & Visualization",
+      "level": "",
+      "keywords": ["Matplotlib", "Seaborn", "Plotly"]
+    },
+    {
+      "name": "Tools & Platforms",
+      "level": "",
+      "keywords": ["Git", "Linux", "Jupyter Notebook"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Full Professional Proficiency"
+    },
+    {
+      "language": "Khmer",
+      "fluency": "Native or Bilingual Proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Artificial Intelligence",
+      "keywords": ["Deep Learning", "Machine Learning", "Reinforcement Learning", "AI Agents", "Large Language Models", "Computer Vision"]
+    },
+    {
+      "name": "Energy & Power Systems",
+      "keywords": ["Power System", "AC Optimal Power Flow", "Energy Optimization", "Smart Grids"]
+    },
+    {
+      "name": "Technology, Innovation & Social Impact",
+      "keywords": ["Entrepreneurship", "Product Innovation", "Education Technology"]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Cambodia's Post-Pandemic Markets: A Path for Education Technology Businesses",
+      "publisher": "Syracuse University, USA",
+      "releaseDate": "2022-08-17",
+      "website": "https://surface.syr.edu/eli/221/",
+      "summary": "As COVID-19 has pushed Cambodia to become more digital in the educational sector and academia is getting used to the technology, Education Technology (EdTech) businesses can effectively enter Cambodia’s market by focusing on the last best experience that customers had, value proposition, and agile marketing strategy."
     }
   ],
-  "presentations": [
+  "presentations": [],
+  "teaching": [],
+  "awards": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "title": "International Graduate Tuition Award",
+      "date": "2026-09-01",
+      "awarder": "Faculty of Graduate Studies, University of Calgary, Canada",
+      "summary": "Awarded a tuition scholarship for international graduate students to pursue a Master of Science in Electrical and Computer Engineering at the University of Calgary, Canada."
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "title": "Dean's Certificate of Academic Excellence",
+      "date": "2023-12-01",
+      "awarder": "Fox School of Business, Temple University, USA",
+      "summary": "Recognized for outstanding academic performance and achievement in the Master of Science in Innovation Management & Entrepreneurship program at Temple University, USA."
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "title": "Fulbright Foreign Student Program",
+      "date": "2022-06-01",
+      "awarder": "U.S. Department of State, Bureau of Educational and Cultural Affairs",
+      "summary": "Awarded a fully-funded scholarship to pursue a Master of Science in Innovation Management & Entrepreneurship at Temple University, USA."
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "title": "The 25th Annual Innovative Idea Competition",
+      "date": "2022-11-01",
+      "awarder": "Fox School of Business, Temple University, USA",
+      "summary": "Named one of the top 5 finalists in the competition, presenting an innovative business idea to a panel of judges and receiving recognition for creativity and potential impact."
+    },
+    {
+      "title": "Youth Innovation Competition on Lancang-Mekong Region's Governance & Development",
+      "date": "2021-06-01",
+      "awarder": "Youth Innovation Competition Organizing Committee, China",
+      "summary": "Received the Best Multinational Team Award in the Youth Innovation Competition on Lancang-Mekong Region's Governance and Development, recognizing outstanding collaboration and innovative solutions to regional challenges."
+    },
+    {
+      "title": "HONDA Young Engineer and Scientist (YES) Program",
+      "date": "2021-02-01",
+      "awarder": "Honda Foundation, Japan",
+      "summary": "Recognized as a Gold Medalist in the Honda Young Engineer and Scientist (YES) Program, a prestigious international competition that recognizes outstanding young engineers and scientists for their innovative projects and research."
+    },
+    {
+      "title": "Global Intern Program",
+      "date": "2019-06-01",
+      "awarder": "Gwangju Institute of Science and Technology, South Korea",
+      "summary": "Selected for a competitive internship program to gain international experience in research and development."
+    },
+    {
+      "title": "SmartStart Young Innovator Program",
+      "date": "2019-03-01",
+      "awarder": "Smart Axiata, Cambodia",
+      "summary": "Named one of the top 5 finalists in the competition, presenting an innovative business idea to a panel of judges and receiving recognition for creativity and potential impact."
+    },
+    {
+      "title": "Temasek Foundation International Leadership Enrichment and Regional Networking Program",
+      "date": "2018-06-01",
+      "awarder": "Nanyang Technological University, Singapore",
+      "summary": "Awarded a fully funded one-semesterexchange opportunity to study at NTU's College of Computing and Data Science."
+    },
+    {
+      "title": "The 5th Robocon Competition",
+      "date": "2018-05-01",
+      "awarder": "Royal University of Phnom Penh, Cambodia",
+      "summary": "Placed among the top five teams out of 20 participating teams in a robotics competition."
+    },
+    {
+      "title": "STEM Research Paper Competition",
+      "date": "2017-05-01",
+      "awarder": "STEM Festival Organizing Committee, Cambodia",
+      "summary": "Awarded the 1st Runner-up in the STEM Research Paper Competition, recognizing outstanding research and analysis in the field of science, technology, engineering, and mathematics."
+    },
+    {
+      "title": "Undergraduate Full-Ride Cambodia Government Scholarship",
+      "date": "2016-11-01",
+      "awarder": "Ministry of Education, Youth and Sport, Cambodia",
+      "summary": "Awarded a full-ride scholarship to pursue undergraduate studies at the Royal University of Phnom Penh, Cambodia."
+    },
+    {
+      "title": "National Mathematical Olympiad",
+      "date": "2016-04-01",
+      "awarder": "Ministry of Education, Youth and Sport, Cambodia",
+      "summary": "Placed 16th in the National Mathematical Olympiad, demonstrating strong mathematical aptitude and problem-solving skills."
+    },
+    {
+      "title": "Asia-Pacific Mathematical Olympiad",
+      "date": "2016-03-01",
+      "awarder": "Ministry of Education, Youth and Sport, Cambodia",
+      "summary": "Achieved the 1st Runner-up among Cambodian students in the Asia-Pacific Mathematical Olympiad, showcasing strong mathematical aptitude and problem-solving skills."
+    },
+    {
+      "title": "Phnom Penh Mathematical Olympiad",
+      "date": "2016-03-01",
+      "awarder": "Ministry of Education, Youth and Sport, Cambodia",
+      "summary": "Achieved the 2nd Place in the Phnom Penh Mathematical Olympiad, showcasing strong mathematical aptitude and analytical thinking."
+    },
+    {
+      "title": "Preah Sisowath Mathematical Olympiad",
+      "date": "2016-02-01",
+      "awarder": "Preah Sisowath High School, Cambodia",
+      "summary": "Achieved the 1st Place Winner in the Preah Sisowath Mathematical Olympiad, demonstrating exceptional mathematical skills and problem-solving abilities."
+    },
+    {
+      "title": "Suken Mathematics Test",
+      "date": "2015-09-01",
+      "awarder": "Suken Mathematics Test Organizing Committee, Japan",
+      "summary": "Achieved the 2nd Kyu Level in the Suken Mathematics Test, demonstrating strong mathematical aptitude and problem-solving skills."
+    },
+    {
+      "title": "Suken Mathematics Test",
+      "date": "2014-09-01",
+      "awarder": "Suken Mathematics Test Organizing Committee, Japan",
+      "summary": "Achieved the Pre-2nd Kyu Level in the Suken Mathematics Test, demonstrating strong mathematical aptitude and problem-solving skills."
+    },
+    {
+      "title": "Grade 9 Preah Sisowath Mathematical Olympiad",
+      "date": "2013-02-01",
+      "awarder": "Preah Sisowath High School, Cambodia",
+      "summary": "Achieved the 1st Place Winner in the Grade 9 Preah Sisowath Mathematical Olympiad."
     }
   ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }

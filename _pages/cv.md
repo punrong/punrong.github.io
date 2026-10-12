@@ -11,26 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master of Science, Electrical and Computer Engineering, University of Calgary, Canada (Expected 2028)
+* Master of Science, Innovation Management and Entrepreneurship, Temple University, USA 2023
+* Bachelor of Arts, Interntaional Studies, Royal University of Phnom Penh, Cambodia, 2021
+* Bachelor of Science in Computer Science, Royal University of Phnom Penh, Cambodia, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug 2026 - Present: Graduate Research Assistant
+  * University of Calgary
+  * Duties includes:
+    * Research on applied machine learning in energy systems for optimization, planning, and policymaking
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug 2024 - Jul 2026: Project Manager
+  * Canadia Bank Plc
+  * Duties included
+    * Led over 5 large-scale initiatives including AI & Cloud, mobile banking, and core banking projects.
+    * Ensured high-quality product releases with less than 5 critical incidents daily for over 2 million banking users.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan - Apr 2024: Gradaute Researcher
+  * Temple University
+  * Duties included
+    * Built a Natural Language Processing model to assess career trajectories for around 150 graduates annually.
+    * Generated insights of 20+ job types and 10+ industries for the admission and career counseling strategies
+
+* Mar 2019 - Jan 2024: Co-Founder & CTO
+  * សិស្សច្បង ~ Sers Chborng (The mentor)
+  * Duties included
+    * Established the higher education and scholarship mentorship consultant f0r high school & university students.
+    * Secured 4,000 USD investment from Smart Axiata to build mobile app, website, and business strategy.
+    * Provided supports to around 1,000 students in Cambodia through one-on-one mentorships and webinars.
+
+* Sep - Dec 2023: Business Process Analyst
+  * Phenoix Language Service Inc
+  * Duties included
+    * Oversaw User Acceptance Test with over 20 test cases for the Interpreter Management System 3.0 upgrade.
+    * Conducted market research & competitive analysis and produced 3 promotional business strategy videos
   
 Skills
 ======

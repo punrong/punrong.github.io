@@ -191,23 +191,30 @@
     }
   ],
   "references": [],
-  "publications": [
-    {
-      "name": "Cambodia's Post-Pandemic Markets: A Path for Education Technology Businesses",
-      "publisher": "Syracuse University, USA",
-      "releaseDate": "2022-08-17",
-      "website": "https://surface.syr.edu/eli/221/",
-      "summary": "As COVID-19 has pushed Cambodia to become more digital in the educational sector and academia is getting used to the technology, Education Technology (EdTech) businesses can effectively enter Cambodia’s market by focusing on the last best experience that customers had, value proposition, and agile marketing strategy."
-    }
-  ],
+  "publications": [],
   "presentations": [],
   "teaching": [],
-  "awards": [
+  "professional_affiliations": [
+    {
+      "organization": "Fulbright and Undergraduate State Alumni Association of Cambodia (FUSAAC)",
+      "position": "Member",
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "Active member of FUSSAAC, a network of Fulbright and undergraduate state alumni in Cambodia, contributing to initiatives that promote educational and cultural exchange."
+    }
+  ],
+  "awards_and_honors": [
     {
       "title": "International Graduate Tuition Award",
       "date": "2026-09-01",
       "awarder": "Faculty of Graduate Studies, University of Calgary, Canada",
       "summary": "Awarded a tuition scholarship for international graduate students to pursue a Master of Science in Electrical and Computer Engineering at the University of Calgary, Canada."
+    },
+    {
+      "title": "Employee Excellence Award",
+      "date": "2025-12-01",
+      "awarder": "Canadia Bank Plc, Cambodia",
+      "summary": "Recognized for outstanding performance and contributions to the bank's digital transformation and technology initiatives"
     },
     {
       "title": "Dean's Certificate of Academic Excellence",
@@ -218,7 +225,7 @@
     {
       "title": "Fulbright Foreign Student Program",
       "date": "2022-06-01",
-      "awarder": "U.S. Department of State, Bureau of Educational and Cultural Affairs",
+      "awarder": "U.S. Department of State, Bureau of Educational and Cultural Affairs, USA",
       "summary": "Awarded a fully-funded scholarship to pursue a Master of Science in Innovation Management & Entrepreneurship at Temple University, USA."
     },
     {
@@ -226,6 +233,24 @@
       "date": "2022-11-01",
       "awarder": "Fox School of Business, Temple University, USA",
       "summary": "Named one of the top 5 finalists in the competition, presenting an innovative business idea to a panel of judges and receiving recognition for creativity and potential impact."
+    },
+    {
+      "title": "Outstanding Scholastic Excellence Award",
+      "date": "2021-12-01",
+      "awarder": "Department of International Studies, Royal University of Phnom Penh, Cambodia",
+      "summary": "The top student in the fourth-year evening shift at the Department of International Studies, Royal University of Phnom Penh, Cambodia, recognized for academic excellence and exceptional performance."
+    },
+    {
+      "title": "Ideas Pitching Competition",
+      "date": "2021-06-24",
+      "awarder": "Cambodia 4.0 Center, Cambodia",
+      "summary": "Awarded third place for presenting a digital strategy inspired by Dropbox's business model and exploring how it could be adapted to address market opportunities in Cambodia "
+    },
+    {
+      "title": "On Spot Award",
+      "date": "2021-06-24",
+      "awarder": "Smart Axiata, Cambodia",
+      "summary": "Oustanding contribution to the CBS 5.7 system upgrade, demonstrating exceptional performance and dedication to the project."
     },
     {
       "title": "Youth Innovation Competition on Lancang-Mekong Region's Governance & Development",
@@ -272,25 +297,25 @@
     {
       "title": "Undergraduate Full-Ride Cambodia Government Scholarship",
       "date": "2016-11-01",
-      "awarder": "Ministry of Education, Youth and Sport, Cambodia",
+      "awarder": "Ministry of Education, Youth and Sports, Cambodia",
       "summary": "Awarded a full-ride scholarship to pursue undergraduate studies at the Royal University of Phnom Penh, Cambodia."
     },
     {
       "title": "National Mathematical Olympiad",
       "date": "2016-04-01",
-      "awarder": "Ministry of Education, Youth and Sport, Cambodia",
+      "awarder": "Ministry of Education, Youth and Sports, Cambodia",
       "summary": "Placed 16th in the National Mathematical Olympiad, demonstrating strong mathematical aptitude and problem-solving skills."
     },
     {
       "title": "Asia-Pacific Mathematical Olympiad",
       "date": "2016-03-01",
-      "awarder": "Ministry of Education, Youth and Sport, Cambodia",
+      "awarder": "Ministry of Education, Youth and Sports, Cambodia",
       "summary": "Achieved the 1st Runner-up among Cambodian students in the Asia-Pacific Mathematical Olympiad, showcasing strong mathematical aptitude and problem-solving skills."
     },
     {
       "title": "Phnom Penh Mathematical Olympiad",
       "date": "2016-03-01",
-      "awarder": "Ministry of Education, Youth and Sport, Cambodia",
+      "awarder": "Ministry of Education, Youth and Sports, Cambodia",
       "summary": "Achieved the 2nd Place in the Phnom Penh Mathematical Olympiad, showcasing strong mathematical aptitude and analytical thinking."
     },
     {
@@ -304,6 +329,24 @@
       "date": "2015-09-01",
       "awarder": "Suken Mathematics Test Organizing Committee, Japan",
       "summary": "Achieved the 2nd Kyu Level in the Suken Mathematics Test, demonstrating strong mathematical aptitude and problem-solving skills."
+    },
+    {
+      "title": "Canadian Senior Mathematics Contest",
+      "date": "2015-04-14",
+      "awarder": "The Centre for Education in Mathematics and Computing (CEMC), University of Waterloo, Canada",
+      "summary": "Achieved the 1st Runner-up among Cambodian contestants in the Canadian Senior Mathematics Contest, demonstrating strong mathematical problem-solving and analytical skills, The competition was hosted locally by Grade A Plus School, Cambodia."
+    },
+    {
+      "title": "Fermat Mathematics Contest",
+      "date": "2015-01-14",
+      "awarder": "The Centre for Education in Mathematics and Computing (CEMC), the University of Waterloo, Canada",
+      "summary": "Named the first place among Cambodian contestants in the Fermat Mathematics Contest, demonstrating strong mathematical problem-solving and analytical skills. The competition was hosted locally by Grade A Plus School, Cambodia."
+    },
+    {
+      "title": "Youth Discussion Forum on Gender Equality",
+      "date": "2014-12-19",
+      "awarder": "Ministry of Women Affairs & Ministry of Education, Youth, and Sports, Cambodia",
+      "summary": "Recognized as a top-performing team in a youth debate on gender equality, examining the traditional Cambodian belief that women cannot lead beyond domestic responsibilities and the importance of men's participation in challenging gender stereotypes."
     },
     {
       "title": "Suken Mathematics Test",

@@ -11,7 +11,11 @@ author_profile: true
 
 {% include cv-template.html %}
 
-<div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" target="_blank" rel="noopener noreferrer">View My Professional CV Here</a>
-  <!-- <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a> -->
+<div  class="cv-header-actions">
+  <a  href="{{ base_path }}/files/cv.pdf"
+      class="btn btn--primary"
+      target="_blank"
+      rel="noopener noreferrer">
+        <i class="fas fa-file-pdf"></i> View My Professional CV
+  </a>
 </div>

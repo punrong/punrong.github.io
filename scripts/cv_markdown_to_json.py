@@ -364,15 +364,15 @@ def parse_portfolio(portfolio_dir):
     
     return portfolio
 
-def parse_awards(awards_dir):
-    """Parse award items from the _awards directory."""
-    awards = []
+def parse_awards_and_honors(awards_and_honors_dir):
+    """Parse award and honor items from the _awards directory."""
+    awards_and_honors = []
     
-    if not os.path.exists(awards_dir):
-        return awards
+    if not os.path.exists(awards_and_honors_dir):
+        return awards_and_honors
     
-    for awards_file in sorted(glob.glob(os.path.join(awards_dir, "*.md"))):
-        with open(awards_file, 'r', encoding='utf-8') as file:
+    for awards_and_honors_file in sorted(glob.glob(os.path.join(awards_and_honors_dir, "*.md"))):
+        with open(awards_and_honors_file, 'r', encoding='utf-8') as file:
             content = file.read()
         
         # Extract front matter
@@ -380,8 +380,8 @@ def parse_awards(awards_dir):
         if front_matter_match:
             front_matter = yaml.safe_load(front_matter_match.group(1))
             
-            # Extract award details
-            award_entry = {
+            # Extract award and honor details
+            award_and_honor_entry = {
                 "name": front_matter.get('title', ''),
                 "category": front_matter.get('collection', 'portfolio'),
                 "date": front_matter.get('date', ''),
@@ -389,9 +389,51 @@ def parse_awards(awards_dir):
                 "description": front_matter.get('excerpt', '')
             }
             
-            awards.append(award_entry)
+            awards_and_honors.append(award_and_honor_entry)
     
-    return awards
+    return awards_and_honors 
+
+def parse_professional_affiliations(affiliations_text):
+    """Parse professional affiliations section from markdown."""
+    work_entries = []
+    
+    # Extract professional affiliations entries
+    entries = re.findall(r'\* (.*?)(?=\n\*|\Z)', affiliations_text, re.DOTALL)
+    
+    for entry in entries:
+        lines = entry.strip().split('\n')
+        if not lines:
+            continue
+            
+        # Parse position and organization
+        first_line = lines[0].strip()
+        position_match = re.match(r'(.*?), (.*?)(?:, |$)', first_line)
+        
+        if position_match:
+            position, organization = position_match.groups()
+            
+            # Extract dates if available
+            date_match = re.search(r'(\d{4})\s*-\s*(\d{4}|present)', entry, re.IGNORECASE)
+            start_date = date_match.group(1) if date_match else ""
+            end_date = date_match.group(2) if date_match else ""
+            
+            # Extract highlights
+            highlights = []
+            for line in lines[1:]:
+                if line.strip().startswith('*') or line.strip().startswith('-'):
+                    highlights.append(line.strip()[1:].strip())
+            
+            work_entries.append({
+                "organization": organization.strip(),
+                "position": position.strip(),
+                "website": "",
+                "startDate": start_date,
+                "endDate": end_date,
+                "summary": "",
+                "highlights": highlights
+            })
+    
+    return work_entries
 
 def create_cv_json(md_file, config_file, repo_root, output_file):
     """Create a JSON CV from markdown and other repository data."""
@@ -415,8 +457,11 @@ def create_cv_json(md_file, config_file, repo_root, output_file):
         "references": []
     }
 
-    # Add awards
-    cv_json["awards"] = parse_awards(os.path.join(repo_root, "_awards"))
+    # Add awards and honors
+    cv_json["awards_and_honors"] = parse_awards_and_honors(os.path.join(repo_root, "_awards"))
+
+    # Add professional affiliations
+    cv_json["professional_affiliations"] = parse_professional_affiliations(sections.get('Professional Affiliations', ''))
     
     # Add publications
     cv_json["publications"] = parse_publications(os.path.join(repo_root, "_publications"))

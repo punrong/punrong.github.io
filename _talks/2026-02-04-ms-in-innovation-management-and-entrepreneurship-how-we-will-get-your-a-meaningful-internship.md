@@ -8,9 +8,13 @@ date: 2026-02-04
 location: "USA (Online)"
 ---
 
-<a href="https://lnkd.in/p/gcUWiQpM" target="_blank">More information here</a>
+<div class="talk-image">
+  <img src="/images/talks/ms-ime-talk.png">
+</div>
 
 Shared experiences from the MS in Innovation Management & Entrepreneurship program to help prospective students understand the graduate school experience and prepare for meaningful internship opportunities.
 
 - Shared perspectives on graduate study and professional development.
 - Discussed preparing for internships and connecting academic learning with career goals.
+
+<a href="https://lnkd.in/p/gcUWiQpM" target="_blank">More information here</a>

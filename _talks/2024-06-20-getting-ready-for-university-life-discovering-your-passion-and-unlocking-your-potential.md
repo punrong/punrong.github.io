@@ -8,9 +8,13 @@ date: 2024-06-20
 location: "Cambodia"
 ---
 
-<a href="https://www.facebook.com/share/p/1MZEDp9QPj/" target="_blank">More information here</a>
+<div class="talk-image">
+  <img src="/images/talks/lets-chat-series.png">
+</div>
 
 Discussed university preparation, personal interests, and self-discovery to help students make informed decisions about their education and future careers.
 
 - Explored the importance of identifying personal interests and strengths
 - Discussed preparing for university and future career decisions.
+
+<a href="https://www.facebook.com/share/p/1MZEDp9QPj/" target="_blank">More information here</a>

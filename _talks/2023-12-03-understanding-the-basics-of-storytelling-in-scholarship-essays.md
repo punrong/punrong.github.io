@@ -8,9 +8,12 @@ date: 2023-12-03
 location: "Cambodia"
 ---
 
-<a href="https://www.facebook.com/share/p/1JoBQwPgcH/" target="_blank">More information here</a>
-
+<div class="talk-image">
+  <img src="/images/talks/sers-chborng-storytelling.png">
+</div>
 Introduced storytelling techniques for scholarship essays, focusing on communicating personal experiences, motivations, and aspirations effectively.
 
 - Discussed how to structure a compelling personal narrative.
 - Explored communicating motivations and goals through scholarship essays.
+
+<a href="https://www.facebook.com/share/p/1JoBQwPgcH/" target="_blank">More information here</a>

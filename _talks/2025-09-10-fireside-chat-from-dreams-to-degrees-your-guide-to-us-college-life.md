@@ -8,10 +8,14 @@ date: 2025-09-10
 location: "Cambodia"
 ---
 
-<a href="https://www.facebook.com/share/p/1FXiRK18cH/" target="_blank">More information here</a>
+<div class="talk-image">
+  <img src="/images/talks/fireside-chat.png">
+</div>
 
 Shared personal perspectives on studying in the United States, helping Cambodian students better understand international education and prepare for university life abroad.
 
 - Discussed the experience of studying in the United States.
 - Shared insights to help students prepare for international education.
 - Encouraged prospective students to pursue their academic goals.
+
+<a href="https://www.facebook.com/share/p/1FXiRK18cH/" target="_blank">More information here</a>

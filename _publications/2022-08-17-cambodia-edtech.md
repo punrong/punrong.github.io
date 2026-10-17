@@ -2,7 +2,7 @@
 title: "Cambodia's Post-Pandemic Markets: A Path for Education Technology Businesses"
 collection: publications
 category: posters
-permalink: /publication/2022-08-17-cambodia-edtech
+permalink: /publications/2022-08-17-cambodia-edtech
 excerpt: ''
 date: 2022-08-17
 venue: 'Syracuse University, USA'

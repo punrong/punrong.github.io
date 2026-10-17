@@ -9,7 +9,7 @@ location: "USA (Online)"
 ---
 
 <div class="talk-image">
-  <img src="/images/talks/ms-ime-talk.png">
+  <img src="/images/talks/temple-uni-talk.png">
 </div>
 
 Shared experiences from the MS in Innovation Management & Entrepreneurship program to help prospective students understand the graduate school experience and prepare for meaningful internship opportunities.

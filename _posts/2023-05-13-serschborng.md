@@ -1,13 +1,16 @@
 ---
 title: 'Why do many startups fail in Cambodia? សិស្សច្បង ~ Sers Chborng’s lesson learned: the start, the end of the beginning, and the ongoing comeback'
 date: 2023-05-13
-permalink: /posts/2012/08/blog-post-1/
+permalink: /year-archive/2012/08/blog-post-1/
 tags:
   - Entrepreneurship
   - Startup
   - Mentorhsip
   - Scholarship
 ---
+
+<img src='/images/posts/sers-chborng.png' width='500' height='300'>
+
 The young Cambodian startup ecosystem is hindered by unskilled teams, regulatory challenges, and limited funding, which led to the 2020 collapse of the scholarship mentorship startup Sers Chborng. Armed with advanced training from the Fulbright Program at Temple University, the co-founder is now restructuring the venture for a strategic comeback within Cambodia's growing digital economy.
 
 **1. Entrepreneurial and innovation ecosystems**

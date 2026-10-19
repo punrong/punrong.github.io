@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I’m Punrong Rany, a graduate student, technology professional, and researcher interested in how artificial intelligence can be applied to real-world engineering problems.
 
-I am currently pursuing an MSc in Electrical Engineering (Software Engineering specialization) at the University of Calgary, where my work focuses on the intersection of AI, machine learning, software engineering, and energy systems. I am particularly interested in building AI systems that are not only accurate, but also reliable, interpretable, and useful in real-world environments.
+I am currently pursuing an MSc in Electrical and Computer Engineering at University of Calgary, where my work focuses on the intersection of AI, machine learning, software engineering, and energy systems. I am particularly interested in building AI systems that are not only accurate, but also reliable, interpretable, and useful in real-world environments.
 
 Before starting my graduate studies, I worked as a Project Manager in the PMO at Canadia Bank, where I worked on technology and digital transformation initiatives across areas including digital banking, payments, IT security, and merchant solutions. Working closely with technical teams, business stakeholders, and large-scale technology projects gave me a practical perspective on how software and AI need to work beyond the laboratory.
 

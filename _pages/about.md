@@ -11,7 +11,7 @@ Hi, I’m Punrong Rany, a graduate student, technology professional, and researc
 
 I am currently pursuing an MSc in Electrical and Computer Engineering at University of Calgary, where my work focuses on the intersection of AI, machine learning, software engineering, and energy systems. I am particularly interested in building AI systems that are not only accurate, but also reliable, interpretable, and useful in real-world environments.
 
-Before starting my graduate studies, I worked as a Project Manager in the PMO at Canadia Bank, where I worked on technology and digital transformation initiatives across areas including digital banking, payments, IT security, and merchant solutions. Working closely with technical teams, business stakeholders, and large-scale technology projects gave me a practical perspective on how software and AI need to work beyond the laboratory.
+Before starting my graduate studies, I worked as a Project Manager at Canadia Bank, where I worked on technology and digital transformation initiatives across areas including digital banking, payments, IT security, and merchant solutions. Working closely with technical teams, business stakeholders, and large-scale technology projects gave me a practical perspective on how software and AI need to work beyond the laboratory.
 
 My academic background is interdisciplinary. I hold a Master of Science in Innovation Management & Entrepreneurship from Temple University, as well as bachelor's degrees in Computer Science and International Studies from the Royal University of Phnom Penh. I was also fortunate to be selected as a Fulbright Scholar, an experience that shaped my interest in using technology to solve meaningful problems and work across disciplines.
 

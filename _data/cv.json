@@ -134,6 +134,15 @@
       "endDate": "Oct 2020",
       "gpa": null,
       "courses": []
+    },
+    {
+      "institution": "Nanyang Technological University, Singapore",
+      "area": "One Semester Exchange at College of Computing and Data Science",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "Dec 2018",
+      "gpa": null,
+      "courses": []
     }
   ],
   "skills": [
@@ -205,7 +214,7 @@
   ],
   "awards_and_honors": [
     {
-      "title": "International Graduate Tuition Award",
+      "title": "International Graduate Student Tuition Award",
       "date": "2026-09-01",
       "awarder": "Faculty of Graduate Studies, University of Calgary, Canada",
       "summary": "Awarded a tuition scholarship for international graduate students to pursue a Master of Science in Electrical and Computer Engineering at the University of Calgary, Canada."
@@ -250,12 +259,12 @@
       "title": "On Spot Award",
       "date": "2021-06-24",
       "awarder": "Smart Axiata, Cambodia",
-      "summary": "Oustanding contribution to the CBS 5.7 system upgrade, demonstrating exceptional performance and dedication to the project."
+      "summary": "Outstanding contribution to the CBS 5.7 system upgrade, demonstrating exceptional performance and dedication to the project."
     },
     {
       "title": "Youth Innovation Competition on Lancang-Mekong Region's Governance & Development",
       "date": "2021-06-01",
-      "awarder": "Youth Innovation Competition Organizing Committee, China",
+      "awarder": "Youth Innovation Competition Organizing Committee, Thailand",
       "summary": "Received the Best Multinational Team Award in the Youth Innovation Competition on Lancang-Mekong Region's Governance and Development, recognizing outstanding collaboration and innovative solutions to regional challenges."
     },
     {
